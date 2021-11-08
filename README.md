@@ -25,3 +25,6 @@ https://levelup.gitconnected.com/open-source-concept-for-indoor-navigation-and-p
 https://www.here.com/platform/tracking-positioning-solutions/indoor-positioning-systems
 
 https://pubmed.ncbi.nlm.nih.gov/34143015/
+
+http://stitcs.com/EN/RFID/Indoor Location Sensing Using Active RFID.pdf
+
