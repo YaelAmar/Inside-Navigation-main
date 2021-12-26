@@ -12,7 +12,11 @@ https://spectrum.ieee.org/accurate-navigation-without-gps
 
 https://www.bezeq.co.il/blog/podcasts/part35/
 
+https://www.geektime.co.il/indoor-location-positioning-in-israel/
+
 https://www.geektime.co.il/navin-startup/
+
+https://www.idp.co.il/doc/ble-equipment
 
 https://www.u-blox.com/en/indoor-positioning-solutions
 
